@@ -1,2 +1,5 @@
-# bakery
-One-page site for bakery
+# Сайт для булочной
+
+- Мой первый проект [Сайт-реклама булочной](https://anhelina-kolomiiets.github.io/bakery/)
+- Это простая страница
+- Используется два шрифта и три оттенка
